@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3540297, 2018-03-12T10:25:10-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Zapatista by MADType
+ * URL: https://www.myfonts.com/fonts/madtype/zapatista/regular/
+ * Copyright: Copyright (c) Matthew Desmond, 2010. All rights reserved.
+ * Licensed pageviews: 10,000
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3540297
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("/count/360549");
+
+  
+@font-face {font-family: 'Zapatista';src: url('webfonts/360549_0_0.eot');src: url('webfonts/360549_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/360549_0_0.woff2') format('woff2'),url('webfonts/360549_0_0.woff') format('woff'),url('webfonts/360549_0_0.ttf') format('truetype');}
+ 
